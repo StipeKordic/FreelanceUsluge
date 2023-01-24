@@ -10,7 +10,7 @@
             <!-- Right aligned nav items -->
             <b-navbar-nav class="ms-auto me-2">
               <b-nav-item href="/about" class="border-bottom">O nama</b-nav-item>
-              <b-nav-item href="/vizija" class="hover">Vizija</b-nav-item>
+              <b-nav-item href="/Dokumenti/VIZIJA_PZI.docx.pdf" target="_blank" class="hover">Vizija</b-nav-item>
               <b-nav-item href="#kontakt" class="hover">Kontakt</b-nav-item>
               <b-nav-item href="#" class="hover">Prijavi se</b-nav-item>
               <a href="/register">
